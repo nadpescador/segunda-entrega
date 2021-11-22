@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PrimerEntrega",
+    "slug": "PrimerEntrega",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PrimerEntrega"
+}
